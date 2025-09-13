@@ -1,0 +1,12 @@
+Project-8: Develop a Client Server based System where Clients will ask Server (a Crunch Admin) to generate a Dictionary for some given Keywords and Options (Use Java Programming).
+
+Submitted By:
+Name: 			Registration Number:
+Amrutansu Samanta 	2141019187
+Ankit Mishra 		2141013145
+Pratyush Dash 		2141004102
+Saugat Mohanty 		2141013224
+Swoyam Prakash Mohanty 	2141013226
+
+Branch: Computer Science and Engineering (CSE)
+Section: 2141021 (U)
